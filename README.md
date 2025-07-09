@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **hyunsungra958@gmail.com**
 
+[HATZ Community Discord Server](https://discord.gg/frjwgaEzZ3)
+
 <h3 align="left">Connect with me (actively):</h3>
 <p align="left">
 <a href="https://twitter.com/hyunsungra958" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hyunsungra958" height="30" width="40" /></a>
